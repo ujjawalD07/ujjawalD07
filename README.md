@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/www.smerin.com/static/565c8b3670db248e0bdc848176270d6a/9397f/websites-banner.jpg)
+![MasterHead](https://i0.wp.com/www.smerin.com/static/565c8b3670db248e0bdc848176270d6a/9397f/websites-banner.jpg)
 <h1 align="center">Hi 👋, I'm Ujjawal Dwivedi</h1>
 <h3 align="center">Full stack developer | Machine learning enthusiast | Competitive coder</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"
