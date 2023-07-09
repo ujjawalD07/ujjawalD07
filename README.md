@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Open source contribution**
 
-- 👨‍💻 Here's my portfolio website [https://ujjawald07.github.io/Portfolio/#/home]([https://ujjawald07.github.io/Portfolio/#/home](https://ujjawald07.github.io/Portfolio/#/home)
+- 👨‍💻 Here's my portfolio website [https://ujjawald07.github.io/Portfolio/#/home][https://ujjawald07.github.io/Portfolio/#/home](https://ujjawald07.github.io/Portfolio/#/home)
 
 - 💬 Ask me about **React, NodeJS, MongoDB, ExpressJS**
 
