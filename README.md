@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ujjawal64ud@gmail.com**
 
-- 📄 My resume [https://docs.google.com/document/d/1mM2Gon2LsI9RF0UXePG4dox_Xx5_Cn913vxvcn6_esg/edit?usp=sharing](https://docs.google.com/document/d/1mM2Gon2LsI9RF0UXePG4dox_Xx5_Cn913vxvcn6_esg/edit?usp=sharing)
+- 📄 My resume [https://docs.google.com/document/d/1mM2Gon2LsI9RF0UXePG4dox_Xx5_Cn913vxvcn6_esg/edit?usp=sharing](https://drive.google.com/file/d/1dUHuYZ3o6PgFaU9XRnWi7cfBWUlcClaf/view?pli=1)
 
 - ⚡ Fun fact **I turn coffee into applications**
 
